@@ -1,2 +1,2 @@
-# Projeto-teste
-Projeto Curso de programção
+# Clone Tabnews
+Projeto remake TabNews
